@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roxiler-intern-task/static/css/main.acefad67.css",
+    "main.js": "/roxiler-intern-task/static/js/main.e47c499a.js",
+    "static/js/453.670e15c7.chunk.js": "/roxiler-intern-task/static/js/453.670e15c7.chunk.js",
+    "index.html": "/roxiler-intern-task/index.html",
+    "main.acefad67.css.map": "/roxiler-intern-task/static/css/main.acefad67.css.map",
+    "main.e47c499a.js.map": "/roxiler-intern-task/static/js/main.e47c499a.js.map",
+    "453.670e15c7.chunk.js.map": "/roxiler-intern-task/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acefad67.css",
+    "static/js/main.e47c499a.js"
+  ]
+}
