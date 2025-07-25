@@ -72,6 +72,10 @@ This is a full-stack web application that allows users to rate stores registered
 (Values are dynamically fetched from the backend)
 
 ---
+ 1. Clone the Repository
+```bash
+git clone https://github.com/SrinuTaddi18/roxiler-intern-task.git
+cd roxiler-intern-task
 
 ## 📂 Folder Structure
 
@@ -91,7 +95,4 @@ root/
 │   │   └── App.js
 ├── .env
 └── README.md
- 1. Clone the Repository
-```bash
-git clone https://github.com/SrinuTaddi18/roxiler-intern-task.git
-cd roxiler-intern-task
+
