@@ -91,3 +91,7 @@ root/
 │   │   └── App.js
 ├── .env
 └── README.md
+ 1. Clone the Repository
+```bash
+git clone https://github.com/SrinuTaddi18/roxiler-intern-task.git
+cd roxiler-intern-task
